@@ -1,0 +1,26 @@
+.home{
+ color: red;
+}
+#home{
+ margin: 0;
+ height: 100%;
+ width: 100%;
+}
+.homeImage{
+background: url('../Images/car3.jpg') no-repeat center/cover;
+width: 1540px;
+height: 734px;
+margin-top: 3em;
+}
+
+.homeImages {
+ background: url('../Images/Untitled.png') no-repeat center/cover;
+ max-width: 1000px;
+ height: 600px;
+ margin-top: 3em;
+ margin-left: 17em;
+}
+
+
+ 
+

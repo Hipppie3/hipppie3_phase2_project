@@ -1,0 +1,104 @@
+.comments{
+ color: green;
+}
+
+.form{
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+ margin-top: 3em;
+}
+
+.formTitle{
+ display: flex;
+ width: 50.6%;
+ height: 4vh;
+ 
+}
+
+.formComment{
+ display: flex;
+ width: 51%;
+ height: 30vh;
+ margin-top: .5em;
+}
+
+.commentTitle{
+ margin-top: 2em;
+ margin-left: 2em;
+ color: white;
+}
+.commentBox{
+ height: 100vh;
+ width: 100vw;
+}
+
+.button {
+ margin-top: .5em;
+ width: 90px;
+ height: 40px;
+ background-color: rgb(255, 117, 140);
+ border-radius: 1em;
+ border: none;
+ color: black;
+ font-weight: bold;
+}
+.search{
+ margin-left: 1em;
+ width: 288px;
+ height: 34px
+}
+
+.hi{
+ color: white;
+}
+
+.commentSection{
+ width: 100%;
+ height: 100%;
+}
+
+.commentCause{
+ color: white;
+}
+.commentArea{
+ display: flex;
+ margin-top: 2em;
+ margin-left: 6em;
+ justify-content: space-evenly;
+ flex-wrap: wrap;
+}
+
+.commentDescription {
+ color: white;
+ font-size: 14px;
+}
+
+.childComment {
+margin: 20px;
+width: 150px;
+flex: 1 0 20%;
+}
+
+#main-texts {
+  height: 20px;
+  width: 60px;
+  border-radius: 1em;
+}
+
+#main-texts:hover{
+ border:  none;
+ height: 20px;
+ width: 60px;
+ border-radius: 1em;
+ cursor: s-resize;
+
+}
+
+#eat:hover{
+ font-size: 4px;
+ color: white;
+ margin-left: 6em;
+ margin-top: 1em;
+ cursor: pointer;
+}

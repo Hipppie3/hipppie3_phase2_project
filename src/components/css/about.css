@@ -1,0 +1,69 @@
+.about {
+ color: orange;
+}
+#abouts{
+ display: flex;
+ justify-content: center;
+ height: 90vh;
+}
+
+#about{
+ background: url('../Images/Sweatshirt.png') no-repeat center/cover;
+ background-size: 80% 90%;
+ height: 100%;
+ width: 50%;
+}
+
+#notAbout {
+ background: url('../Images/Hipppie\ color.jpg') no-repeat center/cover;
+ background-size: 80% 90%;
+ height: 100%;
+ width: 50%;
+}
+
+#paragraph{
+ border: solid 1px white;
+ height: 84%;
+ width: 480px;
+ color: white;
+ font-size: 24px;
+ margin-top: 1.6em;
+ margin-right: 3em;
+ padding: 1em;
+}
+
+span {
+ font-weight: bold;
+ 
+}
+.addict {
+ color: red;
+}
+
+.hunger {
+ color: orange;
+}
+
+.vn {
+ color: yellow;
+}
+
+.mi {
+ color: green;
+}
+
+.children {
+ color: blue;
+}
+
+.parents {
+ color: purple;
+}
+
+.animals {
+ color: turquoise;
+}
+
+.cancer {
+ color: rgb(244, 79, 134);
+}

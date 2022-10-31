@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "title": "Let's BEAT cancer #cancer",
+      "description": "People fear cancer, but let's change the viewpoint. Let's challenge ourselves to view cancer as an obstacle we can defeat",
+      "color": "pink"
+    },
+    {
+      "id": 2,
+      "title": "Let's Talk #mentalhealth",
+      "description": "It's okay to feel down. It's okay to feel lost. It's also okay to speak up about it and talk to someone",
+      "color": "green"
+    },
+    {
+      "id": 4,
+      "title": "Vietnamese Cruisine #vietnam",
+      "description": "Pho, Shaken Beef, Baked Fish, Bun Bo Hue, Egg Noodles, Spring Rolls YUMMY YUM YUM!!",
+      "color": "yellow"
+    },
+    {
+      "id": 5,
+      "title": "Recovering Addicts #addiction",
+      "description": "Rock bottom is a great foundation on which to build",
+      "color": "red"
+    },
+    {
+      "title": "Single Parents",
+      "description": "Single Parents Rule!",
+      "color": "blue",
+      "id": 6
+    }
+  ]
+}

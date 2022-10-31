@@ -1,0 +1,52 @@
+.media {
+ color: blue;
+}
+
+#video{
+ display: flex;
+ justify-content: center;
+ margin-top: 2em;
+ width: 100vw;
+ height: 35vh;
+}
+
+.mediaPage{
+ width: 100vh;
+ height: 100vh;
+}
+iframe{
+ margin-left: 1em;
+ margin-top: 3em;
+}
+
+.imageBox{
+ display: flex;
+justify-content: space-between;
+margin-left: 2em;
+margin-top: 6em;
+
+}
+.friends1 {
+ margin-right: 2em;
+ width: 270px;
+ height: 250px;
+}
+.friends2 {
+ margin-right: 2em;
+ width: 270px;
+ height: 250px;
+}
+.friends3 {
+ margin-right: 2em;
+ width: 270px;
+ height: 250px;
+}
+.friends4 {
+ width: 270px;
+ height: 250px;
+}
+.friends5 {
+ margin-right: 2em;
+ width: 320px;
+ height: 250px;
+}

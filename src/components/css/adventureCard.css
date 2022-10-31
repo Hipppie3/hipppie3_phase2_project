@@ -1,0 +1,26 @@
+.card{
+ transition: 0.3s;
+ width: 30%;
+ margin-bottom: 2em;
+}
+
+.card:hover{
+ box-shadow: 0 8px 16px 0 rgba(253, 253, 249, 2);
+}
+
+.container {
+border: solid white;
+height:100%;
+}
+
+.parkImage {
+ width: 100%;
+ height: 70%;
+}
+.description{
+ font-size: 20px;
+}
+
+.card-title{
+ padding: .5em
+}

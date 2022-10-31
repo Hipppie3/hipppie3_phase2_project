@@ -1,0 +1,23 @@
+.adventure{
+ color: yellow;
+}
+#adventure{
+ margin-top: 5em;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+}
+.card-title {
+ color: white;
+}
+
+.description{
+ color: white;
+}
+
+.adventureTitle{
+ color: white;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ margin-left: 16.5em;
+ margin-top: 2em;
+}
